@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1776197292|391249385';
+const CACHE_VERSION = '1791739094|61787879';
 /** @type {string} */
 const CACHE_PREFIX = 'CafeBeans-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
